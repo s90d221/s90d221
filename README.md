@@ -78,8 +78,12 @@
 
 <!-- GitHub stats -->
 <p align="left">
+  <!-- GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=s90d221&show_icons=true&locale=en" alt="s90d221" /></p>
   <!--<img src="https://github-readme-stats.vercel.app/api?username=s90d221&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,9abed9,e3ddee&title_color=fff&text_color=fff&icon_color=fff" alt="s90d221"/>-->
+  
+  <!-- GitHub 활동 그래프 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s90d221&bg_color=f7f9fc&color=3d3d3d&line=3e89df&point=2859ad&area=true&area_color=3e89df&hide_border=true" width=80%/>
 </p>
 
 <!-- Most used languages -->
