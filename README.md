@@ -8,38 +8,40 @@
 
 <!-- 기술 스택 뱃지 -->
 <div align="center">
-  <h3>Programming Languages</h3>
   <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </p>
 </div>
 
 <div align="center">
-  <h3>Frameworks & Libraries</h3>
   <p>
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-    <!--<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />-->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <!--<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" />-->
   </p>
 </div>
 
 <div align="center">
-  <h3>Databases</h3>
   <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
 </div>
 
-<!--<h3>Deployment & DevOps Tools</h3>-->
-<p align="left">
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <!--<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />-->
+  </p>
+</div>
+
+<p align="center">
   <!--<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />-->
   <!--<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />-->
   <!--<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white" />-->
@@ -48,8 +50,7 @@
   <!--<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />-->
 </p>
 
-<!-- <h3>Development Environments</h3> -->
-<!-- <p align="left"> -->
+<!-- <p align="center"> -->
   <!-- <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Vim-11AB00?style=flat&logo=vim&logoColor=white" /> -->
@@ -58,24 +59,23 @@
   <!-- <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white" /> -->
 <!-- </p> -->
 
-<!-- <h3>Design Tools</h3> -->
-<!-- <p align="left"> -->
-  <!-- <img src="https://img.shields.io/badge/ClipStudioPaint-CFD3D3?style=flat&logo=ClipStudioPaint&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" /> -->
-<!-- </p> -->
+<p align="center">
+  <img src="https://img.shields.io/badge/ClipStudioPaint-CFD3D3?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
 <div align="center">
-  <h3>Other Tools</h3>
   <p>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swagger-39A5DC?style=flat&logo=swagger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swagger-39A5DC?style=for-the-badge&logo=swagger&logoColor=white" />
   </p>
 </div>
+
 
 
 <!-- GitHub stats -->
