@@ -63,7 +63,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=s90d221&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,9abed9,e3ddee&title_color=fff&text_color=fff&icon_color=fff" alt="s90d221"/> -->
 
 <!-- GitHub 활동 그래프 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=s90d221&bg_color=fff7f9&color=3d3d3d&line=FFB6C1&point=FFA7B6&area=true&area_color=f6bfa1&hide_border=true" width="70%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=s90d221&bg_color=fff7f9&color=3d3d3d&line=FFB6C1&point=FFA7B6&area=true&area_color=f6bfa1&hide_border=true" width="80%"/>
 
 <!-- Most used languages -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s90d221&layout=compact&hide_border=true&bg_color=30,e3ddee,9abed9&title_color=fff&text_color=fff&icon_color=fff&hide=scss,css,ejs,html" alt="Top Langs"/> -->
