@@ -5,7 +5,7 @@
 ### Contact Me!
 - <a href="mailto:sujin90d@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sujin90d@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/aekcniz" target="_blank"><img src="https://img.shields.io/badge/aekcniz-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://sujin-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat-square&logo=notion&logoColor=000000"/></a>
+<a href="https://sujin-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-F2F2F2?style=flat-square&logo=notion&logoColor=000000"/></a>
 
 
 ### Skills
