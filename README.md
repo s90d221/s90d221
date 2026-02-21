@@ -19,7 +19,7 @@ I'm an undergraduate student passionate about turning data-driven insights into 
 - **2026** · Backend Organizer, Like Lion 14th (Chungbuk National University)
 - **2026** · Sejong RISE Startup Camp — IR Pitching: 🏆 **Grand Prize (1st place)**
 - **2025** · Academic Excellence Scholarship (Top of Department)
-- **2025** · Backend, Gooroomthon Univ. 4th Cohort
+- **2025** · Backend, [kakao×goorm]9oormthonUNIV. 4th Cohort
 
 ## ⚒️ Tech Stack
 
