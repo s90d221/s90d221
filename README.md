@@ -3,8 +3,8 @@
 <!-- e1f5fe -->
 
 ## ✨ About Me
-I'm an undergraduate AI student and data mining research intern passionate about turning data-driven insights into real-world impact.<br/>
-I bring strong product-thinking skills: I empathize with users, translate needs into clear problem statements, and craft persuasive narratives that connect ideas to business value—from concept to execution.
+I'm an undergraduate AI student and research intern in a Data Mining Lab, passionate about turning data into real-world impact.<br/>
+I bring strong product thinking: I empathize with users, translate needs into crisp problem statements, and craft compelling narratives that connect ideas to business value—from concept to execution.
 
 - 🎓 **B.S. in Artificial Intelligence**, School of Computer Science, Chungbuk National University  
   *(Mar 2024 – Feb 2028)*
@@ -18,7 +18,7 @@ I bring strong product-thinking skills: I empathize with users, translate needs 
 - **Idea → Business execution**: I enjoy shaping ideas into MVP-ready concepts and business value.
 
 ### 🔭 Interests
-- **Data Mining**
+- **Data Science**
 - **Artificial Intelligence**
 - **Entrepreneurship**
   
