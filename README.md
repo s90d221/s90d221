@@ -3,12 +3,19 @@
 <!-- e1f5fe -->
 
 ## ✨ About Me
-I'm an undergraduate student passionate about turning data-driven insights into real-world impact.
+I'm an undergraduate AI student and data mining research intern passionate about turning data-driven insights into real-world impact.<br/>
+I bring strong product-thinking skills: I empathize with users, translate needs into clear problem statements, and craft persuasive narratives that connect ideas to business value—from concept to execution.
 
 - 🎓 **B.S. in Artificial Intelligence**, School of Computer Science, Chungbuk National University  
   *(Mar 2024 – Feb 2028)*
 - 🔬 **Undergraduate Research Intern**, Data Mining Lab  
   *(Dec 2025 – Present)*
+  
+### 🧠 Strengths
+- **User/Customer-centric thinking**: I identify real pain points and translate them into clear product problems.
+- **Problem framing & persuasion**: I frame and communicate problems with a clear flow—problem → root cause → solution—to align stakeholders and drive decisions.
+- **Cross-functional collaboration**: As a CS major, I communicate clearly across tech and non-tech teams and bridge ideas into execution.
+- **Idea → Business execution**: I enjoy shaping ideas into MVP-ready concepts and business value.
 
 ### 🔭 Interests
 - **Data Mining**
@@ -16,10 +23,10 @@ I'm an undergraduate student passionate about turning data-driven insights into 
 - **Entrepreneurship**
   
 ## 💼 Experience
-- **2026** · Backend Organizer, Like Lion 14th (Chungbuk National University)
+- **2026** · Organizer (Backend Track), Like Lion 14th (CBNU)
 - **2026** · Sejong RISE Startup Camp — IR Pitching: 🏆 **Grand Prize (1st place)**
 - **2025** · Academic Excellence Scholarship (Top of Department)
-- **2025** · Backend, [kakao×goorm]9oormthonUNIV. 4th Cohort
+- **2025** · Backend Developer, [kakao×goorm] 9oormthonUNIV. 4th Cohort
 
 ## ⚒️ Tech Stack
 
@@ -32,7 +39,7 @@ I'm an undergraduate student passionate about turning data-driven insights into 
 <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>
 
 **Frameworks / Frontend / Mobile**  
-<a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
@@ -40,13 +47,23 @@ I'm an undergraduate student passionate about turning data-driven insights into 
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 
+**Data / ML**  
+<a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
+
 **Tools**  
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/></a>
 
 ## 📫 Contact
 - Email: [sujin90d@gmail.com](mailto:sujin90d@gmail.com)
-- LinkedIn: [linkedin.com/in/sujin90d](https://www.linkedin.com/in/s90d221)
+- LinkedIn: [linkedin.com/in/s90d221](https://www.linkedin.com/in/s90d221)
 
 <!-- <a href="mailto:sujin90d@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sujin90d@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> -->
 <!-- <a href="https://www.linkedin.com/in/s90d221" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
@@ -60,12 +77,10 @@ I'm an undergraduate student passionate about turning data-driven insights into 
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /></a> -->
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" /></a> -->
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /></a> -->
-<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white" /></a> -->
 
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Vim-11AB00?style=flat-square&logo=vim&logoColor=white" /></a> -->
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white" /></a> -->
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" /></a> -->
-<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /></a> -->
 
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/ClipStudioPaint-CFD3D3?style=flat-square&logo=ClipStudioPaint&logoColor=white" /></a> -->
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" /></a> -->
@@ -76,7 +91,6 @@ I'm an undergraduate student passionate about turning data-driven insights into 
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /></a> -->
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a> -->
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" /></a> -->
-
 
 
 <!-- GitHub stats -->
