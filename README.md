@@ -19,6 +19,7 @@ I bring strong product thinking: I empathize with users, translate needs into cr
 
 ### 🔭 Interests
 - **Data Science**
+- **Graph Data Mining**
 - **Artificial Intelligence**
 - **Entrepreneurship**
   
